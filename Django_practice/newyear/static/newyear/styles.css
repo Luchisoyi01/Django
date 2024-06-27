@@ -1,5 +1,9 @@
 h1{
-  font-size: 90px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 15em;
+  line-height: 1;
+  margin-bottom: 0.1em;
   text-align: center;
   font-family: sans-serif;
 }
